@@ -1,0 +1,1 @@
+// Pre-transpiled version of vite.ts
